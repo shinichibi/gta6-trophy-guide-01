@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vice Ledger — GTA VI Trophy Guide &amp; Platinum Roadmap</title>
+<meta name="description" content="Vice Ledger is an offline GTA VI trophy guide: a searchable checklist with a real guide for every trophy, progress tracking and a platinum roadmap.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="brand">
+    <div class="brand-mark" aria-hidden="true">VL</div>
+    <div>
+      <h1>Vice <span>Ledger</span></h1>
+      <p class="tagline">The GTA VI trophy guide — every trophy, every step, one ledger.</p>
+    </div>
+  </div>
+  <p class="edition">Launch-week living guide · v1.0 · Works fully offline · Your progress never leaves this browser</p>
+</header>
+
+<main>
+  <section class="dashboard" aria-label="Your progress">
+    <div class="dash-main">
+      <div class="dash-percent"><span id="pct">0%</span><small>complete</small></div>
+      <div class="dash-bar"><div id="bar-fill"></div></div>
+      <p class="dash-points"><strong id="points">0</strong> / <span id="points-total">0</span> trophy points ·
+        <span id="earned-count">0</span> of <span id="trophy-count">0</span> trophies ·
+        about <strong id="hours-left">0</strong> hours of hunting left</p>
+    </div>
+    <ul class="tier-board" aria-label="Progress by tier">
+      <li class="tier-platinum"><span class="tier-dot"></span>Platinum <strong id="tier-platinum">0/1</strong></li>
+      <li class="tier-gold"><span class="tier-dot"></span>Gold <strong id="tier-gold">0/0</strong></li>
+      <li class="tier-silver"><span class="tier-dot"></span>Silver <strong id="tier-silver">0/0</strong></li>
+      <li class="tier-bronze"><span class="tier-dot"></span>Bronze <strong id="tier-bronze">0/0</strong></li>
+    </ul>
+    <aside class="next-best" aria-label="Suggested next trophy">
+      <h2>Next best trophy</h2>
+      <p id="next-name">—</p>
+      <p id="next-meta" class="next-meta"></p>
+      <button id="next-go" type="button">Show me</button>
+    </aside>
+  </section>
+
+  <nav class="view-tabs" aria-label="Views">
+    <button id="tab-checklist" class="tab active" type="button">Checklist &amp; Guides</button>
+    <button id="tab-roadmap" class="tab" type="button">Platinum Roadmap</button>
+  </nav>
+
+  <section id="view-checklist">
+    <div class="controls" role="search">
+      <label class="control grow">Search
+        <input id="q" type="search" placeholder="Try 'postcards', 'heist', 'rank'…">
+      </label>
+      <label class="control">Tier
+        <select id="f-tier">
+          <option value="">All tiers</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="control">Category
+        <select id="f-category">
+          <option value="">All categories</option>
+        </select>
+      </label>
+      <label class="control">Sort
+        <select id="f-sort">
+          <option value="tier">Tier, then name</option>
+          <option value="name">Name A–Z</option>
+          <option value="quickest">Quickest first</option>
+          <option value="points">Most points</option>
+        </select>
+      </label>
+      <label class="check"><input id="f-missable" type="checkbox"> Missable only</label>
+      <label class="check"><input id="f-hide" type="checkbox"> Hide earned</label>
+      <button id="btn-print" type="button">Print checklist</button>
+      <button id="btn-reset" type="button">Reset progress</button>
+    </div>
+    <p id="result-count" class="result-count" aria-live="polite"></p>
+    <div id="list" class="trophy-list"></div>
+    <p id="empty" class="empty" hidden>No trophies match those filters. Loosen a filter or clear the search.</p>
+  </section>
+
+  <section id="view-roadmap" hidden>
+    <div class="roadmap-intro">
+      <h2>The road to Legend of Leonida</h2>
+      <p>Six phases, in the order that wastes the least time. Story comes first because two of its trophies can be
+        missed for good; the online ranks run in the background from day one because they are the longest grind in the game.
+        Every phase below is generated from the same trophy data as the checklist, and ticks itself off as you earn.</p>
+    </div>
+    <div id="roadmap"></div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p><strong>Vice Ledger</strong> is a fan-made, launch-week living guide. Trophy names, steps and routes are our own
+    writing from launch-week knowledge and are revised as the community verifies them — if a step ever disagrees with
+    your game, trust your game. Not affiliated with Rockstar Games or Take-Two Interactive.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

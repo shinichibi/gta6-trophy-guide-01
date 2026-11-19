@@ -1,0 +1,1148 @@
+{
+  "game": "Grand Theft Auto VI",
+  "guide": "VICE LEDGER — a launch-week living guide. Trophy names, steps and routes are our own best knowledge from launch week and are revised as the community verifies them. Nothing here is copied from any published list.",
+  "version": "1.0 — November 2026",
+  "trophies": [
+    {
+      "id": "legend-of-leonida",
+      "name": "Legend of Leonida",
+      "description": "Earn every other trophy in VICE LEDGER and make the state yours.",
+      "tier": "platinum",
+      "category": "World & Exploration",
+      "points": 300,
+      "missable": false,
+      "minutes": 0,
+      "guide": {
+        "summary": "The platinum pops the moment your last other trophy lands. There is nothing extra to do — just everything else in this guide.",
+        "steps": [
+          "Work the Platinum Roadmap tab in order: story first, because two story trophies are missable.",
+          "Clear heists and scores next while your crew and gear are fresh.",
+          "Sweep collectibles county by county, then finish side hustles and world challenges.",
+          "Treat the online ranks as a long background grind and start them early."
+        ],
+        "tips": [
+          "Keep a manual save before every chapter finale — it is your insurance for both missable trophies.",
+          "The tracker at the top of this guide always shows your single best next trophy."
+        ],
+        "timeEstimate": "120+ hours total"
+      }
+    },
+    {
+      "id": "back-in-the-sunshine",
+      "name": "Back in the Sunshine",
+      "description": "Complete the prologue and set foot in Vice City as Lucia.",
+      "tier": "bronze",
+      "category": "Story",
+      "points": 15,
+      "missable": false,
+      "minutes": 20,
+      "guide": {
+        "summary": "Pure story progress. The prologue teaches driving, on-foot shooting and the wanted system before opening the city.",
+        "steps": [
+          "Play through the opening robbery and the time-skip cutscene.",
+          "Follow the tutorial prompts to Lucia's safehouse in Vice Beach.",
+          "The trophy pops when free roam unlocks."
+        ],
+        "tips": [
+          "Do not skip the tutorial prompts — two later systems (crew calls and property phones) are only explained here."
+        ],
+        "timeEstimate": "20 min"
+      }
+    },
+    {
+      "id": "two-lives-one-score",
+      "name": "Two Lives, One Score",
+      "description": "Finish 'Keys to the Kingdom', the first mission where you control both Lucia and Jason.",
+      "tier": "bronze",
+      "category": "Story",
+      "points": 15,
+      "missable": false,
+      "minutes": 30,
+      "guide": {
+        "summary": "The character-switch tutorial mission. You will swap between the two leads three times; the trophy needs the mission completed, not gold-medalled.",
+        "steps": [
+          "Start the mission from Lucia's safehouse after the prologue.",
+          "When prompted, hold the switch button to jump to Jason for the marina section.",
+          "Finish the boat escape and the trophy pops at the results screen."
+        ],
+        "tips": [
+          "Each character keeps their own cash and wanted level — a fact the heist trophies below exploit."
+        ],
+        "timeEstimate": "30 min"
+      }
+    },
+    {
+      "id": "heat-in-the-keys",
+      "name": "Heat in the Keys",
+      "description": "Complete Chapter 1: Heat in the Keys.",
+      "tier": "bronze",
+      "category": "Story",
+      "points": 15,
+      "missable": false,
+      "minutes": 60,
+      "guide": {
+        "summary": "Chapter 1 runs down the Leonida Keys causeway and introduces smuggling boats and the first score.",
+        "steps": [
+          "Clear the three story missions marked in the Keys (map icon L).",
+          "Complete the diner stick-up tutorial score when it is offered.",
+          "Finish the chapter finale, 'Causeway Run', to close the chapter."
+        ],
+        "tips": [
+          "Buy the boathouse safehouse when offered — it makes the Keys collectible sweep far shorter later."
+        ],
+        "timeEstimate": "About 1 hour"
+      }
+    },
+    {
+      "id": "the-long-con",
+      "name": "The Long Con",
+      "description": "Complete Chapter 2: The Long Con.",
+      "tier": "bronze",
+      "category": "Story",
+      "points": 15,
+      "missable": false,
+      "minutes": 90,
+      "guide": {
+        "summary": "A con-artist chapter in Vice City's hotel district: casing, disguises and your first multi-stage score.",
+        "steps": [
+          "Complete the four Chapter 2 story missions in the Vice Beach and Downtown districts.",
+          "Finish the 'Velvet Marlin' casing mission to unlock the nightclub contact.",
+          "Close the chapter with the hotel vault score."
+        ],
+        "tips": [
+          "Photograph the hotel's service corridors during casing — the same route is the quiet approach for a later heist variant."
+        ],
+        "timeEstimate": "About 1.5 hours"
+      }
+    },
+    {
+      "id": "port-of-vice",
+      "name": "Port of Vice",
+      "description": "Complete Chapter 3: Port of Vice.",
+      "tier": "bronze",
+      "category": "Story",
+      "points": 15,
+      "missable": false,
+      "minutes": 90,
+      "guide": {
+        "summary": "Port Gellhorn and the shipping yards: container puzzles, a crane chase and your first look at the finale heist location.",
+        "steps": [
+          "Complete the four Chapter 3 missions around Port Gellhorn.",
+          "During 'Manifest Destiny', memorise the container yard layout — you will rob this port in Chapter 7.",
+          "Finish the chapter with the freighter escape."
+        ],
+        "tips": [
+          "The port's collectible postcards are easiest to grab during this chapter, while the yard gates stand open."
+        ],
+        "timeEstimate": "About 1.5 hours"
+      }
+    },
+    {
+      "id": "teeth-of-the-glades",
+      "name": "Teeth of the Glades",
+      "description": "Complete Chapter 4: Teeth of the Glades.",
+      "tier": "bronze",
+      "category": "Story",
+      "points": 15,
+      "missable": false,
+      "minutes": 100,
+      "guide": {
+        "summary": "The Leonida Glades chapter: airboats, alligators and the swamp families. It also contains this guide's first missable trophy — read that entry before the mission 'Cold Shoulder'.",
+        "steps": [
+          "Complete the five Chapter 4 missions in the Glades and Ambrosia.",
+          "Before starting 'Cold Shoulder', make a manual save (see Mercy at Mile Marker 9).",
+          "Finish the chapter finale, 'High Ground', at the sugar refinery."
+        ],
+        "tips": [
+          "Buy the airboat at the Glades dock early; half this chapter is water and the rental fees add up."
+        ],
+        "timeEstimate": "About 1.5–2 hours"
+      }
+    },
+    {
+      "id": "mercy-at-mile-marker-9",
+      "name": "Mercy at Mile Marker 9",
+      "description": "During 'Cold Shoulder' (Chapter 4), let the informant walk away instead of finishing him.",
+      "tier": "silver",
+      "category": "Story",
+      "points": 30,
+      "missable": true,
+      "minutes": 15,
+      "guide": {
+        "summary": "MISSABLE. At the end of 'Cold Shoulder' you corner the informant at a rest stop on the causeway. The game defaults to a weapon prompt; instead, holster your weapon and simply walk back to your car. The choice locks the moment the mission ends.",
+        "steps": [
+          "Make a manual save BEFORE starting 'Cold Shoulder' (Chapter 4, Glades).",
+          "Play the mission normally until the rest-stop confrontation.",
+          "When the prompt appears, do NOT fire: holster (weapon wheel, empty hands) and walk away until the 'spared' dialogue plays.",
+          "The trophy pops as the mission completes. If you fired, reload your manual save — chapter select does not reset this choice."
+        ],
+        "tips": [
+          "Sparing him also pays off in Chapter 6, when he returns with a tip that opens a shortcut.",
+          "If the trophy does not pop, you likely clipped him with the car — the game counts any damage as finishing him."
+        ],
+        "timeEstimate": "15 min (with the mission)"
+      }
+    },
+    {
+      "id": "high-water",
+      "name": "High Water",
+      "description": "Complete Chapter 5: High Water.",
+      "tier": "bronze",
+      "category": "Story",
+      "points": 15,
+      "missable": false,
+      "minutes": 100,
+      "guide": {
+        "summary": "A hurricane chapter: flooded streets, a storm-surge set piece and the story's midpoint betrayal.",
+        "steps": [
+          "Complete the five Chapter 5 missions as the storm builds over Vice City.",
+          "During 'Storm Surge', stay on the rooftops route — the street level is scripted to flood.",
+          "Finish the chapter finale at the Vice City marina."
+        ],
+        "tips": [
+          "Stock up on armour and snacks before the finale; there is no shop access mid-mission."
+        ],
+        "timeEstimate": "About 1.5–2 hours"
+      }
+    },
+    {
+      "id": "no-way-back",
+      "name": "No Way Back",
+      "description": "Complete Chapter 6: No Way Back.",
+      "tier": "silver",
+      "category": "Story",
+      "points": 30,
+      "missable": false,
+      "minutes": 110,
+      "guide": {
+        "summary": "The point-of-no-return chapter. Several free-roam activities lock out until the finale, so finish any urgent business first — the game warns you, and it means it.",
+        "steps": [
+          "Tie up any side content you care about before accepting the mission 'Point of No Return'.",
+          "Complete the four Chapter 6 missions across the Keys and the Glades.",
+          "If you spared the informant in Chapter 4, his shortcut cuts the second mission nearly in half."
+        ],
+        "tips": [
+          "Properties and collectibles return after the finale, so nothing but the two missables is ever truly lost."
+        ],
+        "timeEstimate": "About 2 hours"
+      }
+    },
+    {
+      "id": "ghost-of-the-keys",
+      "name": "Ghost of the Keys",
+      "description": "Complete 'Silent Tide' without raising the alarm — and without paying the bribe that skips it.",
+      "tier": "bronze",
+      "category": "Story",
+      "points": 15,
+      "missable": true,
+      "minutes": 25,
+      "guide": {
+        "summary": "MISSABLE. 'Silent Tide' (Chapter 6) offers a story choice at its start: pay a $25,000 bribe to skip the infiltration, or play it. Paying voids this trophy for the whole playthrough, and so does being spotted.",
+        "steps": [
+          "Make a manual save before starting 'Silent Tide'.",
+          "At the planning table, refuse the bribe and choose to infiltrate.",
+          "Use the drainage channel on the island's north side; stay crouched and move between the patrol boats' searchlights.",
+          "Plant the tracker and leave by the same channel. The trophy pops if the alarm never sounded."
+        ],
+        "tips": [
+          "Rain or fog (common at night in the Keys) halves the guards' sight range.",
+          "Being seen for a split second is fine — only a full alarm fails it."
+        ],
+        "timeEstimate": "25 min"
+      }
+    },
+    {
+      "id": "the-big-one",
+      "name": "The Big One",
+      "description": "Complete Chapter 7: The Big One — all setups for the Port of Leonida heist.",
+      "tier": "silver",
+      "category": "Story",
+      "points": 30,
+      "missable": false,
+      "minutes": 120,
+      "guide": {
+        "summary": "The setup chapter for the finale heist: crew recruitment, gear, vehicles and three approach plans you will later replay for Master Planner.",
+        "steps": [
+          "Complete the five setup missions; each unlocks one heist approach element.",
+          "Recruit the full crew — a driver, a hacker and a gunner — at their marked locations.",
+          "Finish the chapter by casing the port one final time."
+        ],
+        "tips": [
+          "Recruit the premium hacker in Downtown (costs more, buys 90 extra seconds in the finale vault)."
+        ],
+        "timeEstimate": "About 2 hours"
+      }
+    },
+    {
+      "id": "end-of-the-line",
+      "name": "End of the Line",
+      "description": "Complete the main story and see any ending.",
+      "tier": "gold",
+      "category": "Story",
+      "points": 90,
+      "missable": false,
+      "minutes": 150,
+      "guide": {
+        "summary": "Finish the Chapter 8 finale. Any ending counts, and free roam reopens afterwards with everything intact, so there is no need to save endings for later.",
+        "steps": [
+          "Start 'End of the Line' from the Chapter 7 planning table when your crew and loadout are ready.",
+          "Survive the three-phase finale: the port, the causeway chase and the last stand.",
+          "Watch the ending and the trophy pops before the credits finish."
+        ],
+        "tips": [
+          "Bring max armour, a full snack wheel and your best rifle; the finale has no shops.",
+          "After the credits, reload your pre-finale save if you want to replay the heist approaches for Master Planner."
+        ],
+        "timeEstimate": "About 2.5 hours"
+      }
+    },
+    {
+      "id": "pocket-money",
+      "name": "Pocket Money",
+      "description": "Complete your first score: the Route 1 diner stick-up.",
+      "tier": "bronze",
+      "category": "Heists & Scores",
+      "points": 15,
+      "missable": false,
+      "minutes": 15,
+      "guide": {
+        "summary": "The tutorial score in Chapter 1. Small money, big lessons: intimidation, bag filling and the getaway.",
+        "steps": [
+          "Accept the score from the planning contact in the Keys.",
+          "Keep your gun on the clerk to fill the register bag faster; do not shoot.",
+          "Lose the two-star wanted level in the causeway backroads."
+        ],
+        "tips": [
+          "A mask bought from any clothing store halves witness speed in every later score."
+        ],
+        "timeEstimate": "15 min"
+      }
+    },
+    {
+      "id": "bank-on-it",
+      "name": "Bank on It",
+      "description": "Rob any branch of the First Bank of Leonida.",
+      "tier": "bronze",
+      "category": "Heists & Scores",
+      "points": 15,
+      "missable": false,
+      "minutes": 20,
+      "guide": {
+        "summary": "Free-roam bank branches can be robbed any time once Chapter 2 opens the drill. Pick the quiet rural branch in Ambrosia for your first.",
+        "steps": [
+          "Buy a drill from Ammu-Nation (unlocked in Chapter 2).",
+          "Enter the Ambrosia branch, drill the vault door and empty the deposit boxes.",
+          "Escape across the fields, not the highway — the roadblock spawns on the main road."
+        ],
+        "tips": [
+          "Robbing the same branch twice in one in-game week doubles the response. Rotate branches."
+        ],
+        "timeEstimate": "20 min"
+      }
+    },
+    {
+      "id": "quiet-hands",
+      "name": "Quiet Hands",
+      "description": "Complete any score without firing a single shot.",
+      "tier": "bronze",
+      "category": "Heists & Scores",
+      "points": 15,
+      "missable": false,
+      "minutes": 30,
+      "guide": {
+        "summary": "Intimidation alone can carry the small scores. The diner, gas stations and the Ambrosia bank all qualify; heist finales do not.",
+        "steps": [
+          "Pick the Route 1 diner score and bring a melee weapon only.",
+          "Aim (without firing) at the clerk to keep the intimidation meter full.",
+          "Leave before the silent alarm brings the sheriff; shots fired by police do not count against you — only yours do."
+        ],
+        "tips": [
+          "Unequip firearms entirely before entering so a stray trigger pull cannot void it."
+        ],
+        "timeEstimate": "30 min"
+      }
+    },
+    {
+      "id": "load-master",
+      "name": "Load Master",
+      "description": "Fill your loot bag to 100% during the Port Gellhorn warehouse score.",
+      "tier": "bronze",
+      "category": "Heists & Scores",
+      "points": 15,
+      "missable": false,
+      "minutes": 25,
+      "guide": {
+        "summary": "The warehouse score (Chapter 3 side content) has exactly enough loot for a full bag, but two crates sit behind a timed shutter.",
+        "steps": [
+          "Start the warehouse score from the Port Gellhorn contact after Chapter 3.",
+          "Loot the office and the two ground-floor cages first.",
+          "Hit the shutter switch, sprint to the mezzanine crates, then return before it closes.",
+          "The trophy pops when the bag reads 100% — before you even escape."
+        ],
+        "tips": [
+          "An upgraded duffel (from the Downtown surplus store) slows the bag's movement penalty, not its capacity."
+        ],
+        "timeEstimate": "25 min"
+      }
+    },
+    {
+      "id": "clean-getaway",
+      "name": "Clean Getaway",
+      "description": "Finish a heist and lose the law with zero stars showing and your whole crew alive.",
+      "tier": "silver",
+      "category": "Heists & Scores",
+      "points": 30,
+      "missable": false,
+      "minutes": 45,
+      "guide": {
+        "summary": "Easiest on the Chapter 2 hotel score with the Quiet approach: if you are never identified, the escape starts at two stars and the tunnel route sheds them fast.",
+        "steps": [
+          "Choose the hotel score, Quiet approach, and bring the premium hacker.",
+          "Complete the vault without an alarm; swap to the pre-placed getaway car in the service alley.",
+          "Drive the storm-drain tunnel to the bay and wait out the search with the engine off.",
+          "The trophy pops when the wanted level clears with all crew alive."
+        ],
+        "tips": [
+          "Crew deaths usually happen in the alley — park the getaway car facing the exit so nobody crosses fire."
+        ],
+        "timeEstimate": "45 min"
+      }
+    },
+    {
+      "id": "master-planner",
+      "name": "Master Planner",
+      "description": "Complete the Port of Leonida heist three times: once Loud, once Quiet, once by the Con.",
+      "tier": "silver",
+      "category": "Heists & Scores",
+      "points": 30,
+      "missable": false,
+      "minutes": 180,
+      "guide": {
+        "summary": "After the story, the finale heist stays replayable from the planning table at the port safehouse. Each approach plays differently and each counts once.",
+        "steps": [
+          "Finish the main story, then visit the planning table in the Port Gellhorn safehouse.",
+          "Run the Loud approach: armour up, breach the gate, hold the yard.",
+          "Run the Quiet approach: night entry by boat, no alarms, premium hacker recommended.",
+          "Run the Con approach: uniforms and a forged manifest — the slowest, but the biggest cut."
+        ],
+        "tips": [
+          "Replays pay out every time, so this trophy funds Property Baron while you earn it.",
+          "The Con needs the port uniforms from the Chapter 7 setup — if you skipped collecting them, they are in the safehouse wardrobe."
+        ],
+        "timeEstimate": "About 3 hours"
+      }
+    },
+    {
+      "id": "seven-figures",
+      "name": "Seven Figures",
+      "description": "Bank a total of $2,000,000 from heists and scores.",
+      "tier": "silver",
+      "category": "Heists & Scores",
+      "points": 30,
+      "missable": false,
+      "minutes": 240,
+      "guide": {
+        "summary": "Cumulative across both characters and all scores. A full story playthrough banks roughly $1.2M, so expect a handful of replays or bank rotations on top.",
+        "steps": [
+          "Finish the story, banking every score's cut rather than spending it.",
+          "Replay the Port of Leonida heist (Con approach pays best, around $380k).",
+          "Fill the gap with the bank-branch rotation: six branches, one per in-game day."
+        ],
+        "tips": [
+          "Money spent does not subtract — the counter is lifetime earnings from scores, so spend freely."
+        ],
+        "timeEstimate": "About 4 hours"
+      }
+    },
+    {
+      "id": "harbor-gold",
+      "name": "Harbor Gold",
+      "description": "Complete 'The Port of Leonida', the Chapter 7 finale heist, in the story.",
+      "tier": "gold",
+      "category": "Heists & Scores",
+      "points": 90,
+      "missable": false,
+      "minutes": 90,
+      "guide": {
+        "summary": "The story version of the big heist — distinct from its free-roam replays. Any approach counts; the trophy pops at the heist's results screen.",
+        "steps": [
+          "Complete all Chapter 7 setups (see The Big One).",
+          "Pick your approach at the planning table and play the heist through.",
+          "Finish the escape to the safehouse to bank the take and the trophy."
+        ],
+        "tips": [
+          "First time through, Loud is the most forgiving approach; save Quiet and Con for Master Planner replays."
+        ],
+        "timeEstimate": "About 1.5 hours"
+      }
+    },
+    {
+      "id": "wish-you-were-here",
+      "name": "Wish You Were Here",
+      "description": "Find 10 of the 50 vintage postcards mailed around Leonida.",
+      "tier": "bronze",
+      "category": "Collectibles",
+      "points": 15,
+      "missable": false,
+      "minutes": 30,
+      "guide": {
+        "summary": "Postcards sit on counters, benches and notice boards in shops and landmarks. Ten is a gentle start — most players trip over five without trying.",
+        "steps": [
+          "Check every gas station and diner counter you enter; postcards glow faintly at arm's length.",
+          "Work Vice Beach's boardwalk: four postcards within two blocks.",
+          "Your phone's camera mode highlights collectibles in its frame — use it in busy interiors."
+        ],
+        "tips": [
+          "Postcards are never inside mission-locked areas, so the full set is earnable any time after Chapter 1."
+        ],
+        "timeEstimate": "30 min"
+      }
+    },
+    {
+      "id": "postcard-perfect",
+      "name": "Postcard Perfect",
+      "description": "Collect all 50 vintage postcards mailed around Leonida.",
+      "tier": "silver",
+      "category": "Collectibles",
+      "points": 30,
+      "missable": false,
+      "minutes": 240,
+      "guide": {
+        "summary": "The full set, county by county. The in-game Collections menu tracks your count per county, which turns a scavenger hunt into six short sweeps.",
+        "steps": [
+          "Sweep Vice City and Vice Beach first (18 postcards, mostly interiors).",
+          "Take the Keys causeway slowly (9 postcards, several on pier ends).",
+          "Clear Port Gellhorn (8), the Glades (7) and Ambrosia (5) by day — Glades boards are hard to spot at night.",
+          "The final three are on Mount Kalaga's trail shelters; combine with Peak Leonida."
+        ],
+        "tips": [
+          "A postcard icon appears on the mini-map only within about 30 metres; drive new streets slowly."
+        ],
+        "timeEstimate": "About 4 hours"
+      }
+    },
+    {
+      "id": "conch-republic",
+      "name": "Conch Republic",
+      "description": "Find all 100 conch shells washed up on Leonida's shores.",
+      "tier": "silver",
+      "category": "Collectibles",
+      "points": 30,
+      "missable": false,
+      "minutes": 300,
+      "guide": {
+        "summary": "Shells spawn on the tide line of every beach and island shore. The trick is transport: a small boat turns the island shells from a chore into a cruise.",
+        "steps": [
+          "Walk the Vice Beach and South Beach tide lines at low tide (early morning) for the first 30.",
+          "Rent or buy a boat and circle the Keys, beaching at each sandbar (about 35 shells).",
+          "Finish with the Glades shoreline and the northern islands (the last 35).",
+          "Shells respawn visually but each counts once; the Collections menu shows your shore-by-shore count."
+        ],
+        "tips": [
+          "Shells glint in sunlight — hunt between 07:00 and 11:00 in-game for the easiest spotting."
+        ],
+        "timeEstimate": "About 5 hours"
+      }
+    },
+    {
+      "id": "tag-youre-it",
+      "name": "Tag, You're It",
+      "description": "Photograph 20 of the 40 neon murals across Leonida.",
+      "tier": "bronze",
+      "category": "Collectibles",
+      "points": 15,
+      "missable": false,
+      "minutes": 40,
+      "guide": {
+        "summary": "Murals are large neon-lit wall pieces, mostly in Vice City's art district and under the causeway bridges. Photograph them with the phone camera, not the weapon wheel.",
+        "steps": [
+          "Open the phone camera and frame a mural until the 'Mural' tag appears, then snap it.",
+          "Work the Art District grid: 12 murals in a few blocks.",
+          "Add the causeway underpasses on your way out of the city for the remaining 8."
+        ],
+        "tips": [
+          "Murals register day or night, but their neon only glows after dark — prettier photos, same credit."
+        ],
+        "timeEstimate": "40 min"
+      }
+    },
+    {
+      "id": "whole-city-canvas",
+      "name": "Whole City Canvas",
+      "description": "Photograph all 40 neon murals across Leonida.",
+      "tier": "silver",
+      "category": "Collectibles",
+      "points": 30,
+      "missable": false,
+      "minutes": 200,
+      "guide": {
+        "summary": "All 40 murals: 22 in Vice City, 6 in Port Gellhorn, 5 in the Keys, 4 in Ambrosia and 3 hidden in the Glades — including one inside a storm drain that only opens at low tide.",
+        "steps": [
+          "Clear the Art District and Downtown grids (22).",
+          "Take Port Gellhorn's warehouse walls and the Keys' pier murals next (11).",
+          "Finish Ambrosia's silo murals (4) and hunt the three Glades pieces, waiting for low tide for the drain mural."
+        ],
+        "tips": [
+          "If one will not register, step back: the whole piece must fit the frame, edges included."
+        ],
+        "timeEstimate": "About 3–3.5 hours"
+      }
+    },
+    {
+      "id": "lucky-strikes",
+      "name": "Lucky Strikes",
+      "description": "Crack open 10 hidden cash briefcases.",
+      "tier": "bronze",
+      "category": "Collectibles",
+      "points": 15,
+      "missable": false,
+      "minutes": 45,
+      "guide": {
+        "summary": "Briefcases hide in the world's corners — rooftops, wrecks, lifeguard towers — each holding $5,000–$25,000. There are 30 in total; you need any 10.",
+        "steps": [
+          "Check lifeguard towers along Vice Beach (3 easy cases).",
+          "Search the sunken plane at the Leonida Trench (combine with Deep Blue) for 2 more.",
+          "Rooftop-hop Downtown's parking garages for the remaining 5."
+        ],
+        "tips": [
+          "Briefcases ping softly when you are close — play with sound on or watch for the controller's subtle pulse."
+        ],
+        "timeEstimate": "45 min"
+      }
+    },
+    {
+      "id": "buried-treasure",
+      "name": "Buried Treasure",
+      "description": "Follow all 12 treasure map fragments to the Leonida hoard.",
+      "tier": "gold",
+      "category": "Collectibles",
+      "points": 90,
+      "missable": false,
+      "minutes": 300,
+      "guide": {
+        "summary": "Twelve fragments, each a hand-drawn sketch of a landmark, each cache holding the next clue and a cut of gold. The final hoard under the Keys lighthouse pays about $500,000.",
+        "steps": [
+          "Find fragment 1 in the Vice Beach lifeguard HQ (it starts the chain; the rest only spawn in order).",
+          "Solve each sketch by matching its skyline or coastline; caches are buried — look for disturbed sand and the shovel prompt.",
+          "Fragments 5 and 9 need a boat; fragment 11 needs the storm drain at low tide.",
+          "Open the final cache beneath the Keys lighthouse for the trophy and the hoard."
+        ],
+        "tips": [
+          "Each fragment's sketch is added to your phone — zoom in; the X is always relative to the drawn landmark, not the map."
+        ],
+        "timeEstimate": "About 5 hours"
+      }
+    },
+    {
+      "id": "first-shift",
+      "name": "First Shift",
+      "description": "Complete any side hustle job: a taxi fare, a courier run or a tow job.",
+      "tier": "bronze",
+      "category": "Side Hustles",
+      "points": 15,
+      "missable": false,
+      "minutes": 10,
+      "guide": {
+        "summary": "Side hustles unlock in Chapter 1. The taxi shift is the fastest first job in the game.",
+        "steps": [
+          "Buy a taxi shift from the Downtown depot (or answer any courier call).",
+          "Pick up your fare and deliver them without wrecking the car.",
+          "The trophy pops on payment."
+        ],
+        "tips": [
+          "Hustle jobs pay better at night, and the online-style bonus timers are generous — no need to rush."
+        ],
+        "timeEstimate": "10 min"
+      }
+    },
+    {
+      "id": "repo-man",
+      "name": "Repo Man",
+      "description": "Complete 15 repossession jobs for the Leonida Recovery Agency.",
+      "tier": "bronze",
+      "category": "Side Hustles",
+      "points": 15,
+      "missable": false,
+      "minutes": 90,
+      "guide": {
+        "summary": "Steal back specific cars from specific driveways. Jobs refresh daily from the agency office in Port Gellhorn.",
+        "steps": [
+          "Sign up at the Recovery Agency office after Chapter 2.",
+          "Take jobs one at a time; deliver each car with its bodywork intact for the full fee.",
+          "Repeat to 15 — roughly three jobs per in-game day is the comfortable pace."
+        ],
+        "tips": [
+          "Owners give up quickly if you simply drive off — never fight them, it costs more in repairs than the bonus pays."
+        ],
+        "timeEstimate": "About 1.5 hours"
+      }
+    },
+    {
+      "id": "odd-jobs-odd-people",
+      "name": "Odd Jobs, Odd People",
+      "description": "Meet 10 Strangers & Oddballs across Leonida.",
+      "tier": "bronze",
+      "category": "Side Hustles",
+      "points": 15,
+      "missable": false,
+      "minutes": 60,
+      "guide": {
+        "summary": "Strangers appear as '?' icons when you pass near. Meeting one means finishing their first encounter, not their whole storyline.",
+        "steps": [
+          "Walk (do not drive) the Vice Beach boardwalk at dusk for the first three regulars.",
+          "Check the Glades gas station and the Keys marina for two more.",
+          "Downtown's plaza and the Port Gellhorn docks hold the rest of an easy ten."
+        ],
+        "tips": [
+          "Strangers spawn at set times of day; if an icon vanishes, return at the same hour tomorrow."
+        ],
+        "timeEstimate": "About 1 hour"
+      }
+    },
+    {
+      "id": "street-certified",
+      "name": "Street Certified",
+      "description": "Win 10 street races.",
+      "tier": "bronze",
+      "category": "Side Hustles",
+      "points": 15,
+      "missable": false,
+      "minutes": 90,
+      "guide": {
+        "summary": "Street races gather at night near the marked meets. Your first ten wins can all come from the beginner Vice Beach circuit.",
+        "steps": [
+          "Buy or steal a mid-tier sports car and fit basic upgrades (engine, brakes, tyres).",
+          "Enter the Vice Beach meet after 22:00 and win the circuit race.",
+          "Repeat across meets — wins on any circuit count, including repeats."
+        ],
+        "tips": [
+          "Races are rubber-banded; a clean line beats a faster car driven badly."
+        ],
+        "timeEstimate": "About 1.5 hours"
+      }
+    },
+    {
+      "id": "own-the-night",
+      "name": "Own the Night",
+      "description": "Buy the Velvet Marlin nightclub and push its popularity to maximum.",
+      "tier": "silver",
+      "category": "Side Hustles",
+      "points": 30,
+      "missable": false,
+      "minutes": 200,
+      "guide": {
+        "summary": "The Velvet Marlin (Vice Beach, $1.2M) is the game's club-management loop: book DJs, run promotion missions and keep the bar stocked until the popularity meter maxes.",
+        "steps": [
+          "Buy the club once the Chapter 2 contact offers it (heist replays fund it fastest).",
+          "Complete the five setup missions: sound system, security, liquor licence, resident DJ, VIP lounge.",
+          "Run promotion missions between story sessions; each fills roughly 15% popularity.",
+          "At 100% popularity the trophy pops and the club starts paying weekly."
+        ],
+        "tips": [
+          "Popularity decays slowly — top it off whenever you pass Vice Beach rather than grinding it in one sitting."
+        ],
+        "timeEstimate": "About 3–3.5 hours"
+      }
+    },
+    {
+      "id": "quarter-mile-king",
+      "name": "Quarter-Mile King",
+      "description": "Win all 24 street races.",
+      "tier": "silver",
+      "category": "Side Hustles",
+      "points": 30,
+      "missable": false,
+      "minutes": 240,
+      "guide": {
+        "summary": "All 24 unique circuits across the state, from beach sprints to the Glades' mud runs. Each meet unlocks after you win the previous tier in its region.",
+        "steps": [
+          "Clear the 8 Vice City circuits with a tuned sports car.",
+          "Take the 6 Keys and causeway races — bring something with top speed for the straights.",
+          "Finish the 6 Glades and Ambrosia races in an off-roader, then the 4 Mount Kalaga hill climbs.",
+          "The trophy pops on your 24th unique win; the map's race menu tracks which remain."
+        ],
+        "tips": [
+          "Rain makes the Glades races far easier in a rally build with off-road tyres."
+        ],
+        "timeEstimate": "About 4 hours"
+      }
+    },
+    {
+      "id": "smugglers-run",
+      "name": "Smuggler's Run",
+      "description": "Complete all 12 smuggling drops across the Keys causeway.",
+      "tier": "silver",
+      "category": "Side Hustles",
+      "points": 30,
+      "missable": false,
+      "minutes": 180,
+      "guide": {
+        "summary": "Boat and seaplane drops for the Keys cartel, unlocked after Chapter 1. Each drop is a pickup, a timed run and a hot handoff.",
+        "steps": [
+          "Take the first drop from the marina contact in the Keys.",
+          "Alternate boat and seaplane drops as they unlock; later drops add Coast Guard pursuit.",
+          "Complete all 12 unique drop routes — the contact's board tracks them."
+        ],
+        "tips": [
+          "On pursuit drops, cut through the mangroves: patrol boats will not follow into the shallows."
+        ],
+        "timeEstimate": "About 3 hours"
+      }
+    },
+    {
+      "id": "everyones-got-a-story",
+      "name": "Everyone's Got a Story",
+      "description": "Complete every Strangers & Oddballs storyline.",
+      "tier": "silver",
+      "category": "Side Hustles",
+      "points": 30,
+      "missable": false,
+      "minutes": 300,
+      "guide": {
+        "summary": "Fourteen strangers, each with a 2–4 part storyline: the retired stunt driver, the storm chaser, the treasure-obsessed diver and more. Some arcs only continue after in-game days pass.",
+        "steps": [
+          "Meet all 14 strangers (start with Odd Jobs, Odd People).",
+          "After each encounter, check the map over the following days for the next '?' in their colour.",
+          "Two arcs (the diver and the storm chaser) gate their finales behind weather — wait for a storm for the chaser's last part.",
+          "The trophy pops when the final arc — the stunt driver's farewell jump — completes."
+        ],
+        "tips": [
+          "Sleep at a safehouse to advance time when an arc is waiting on the clock."
+        ],
+        "timeEstimate": "About 5 hours"
+      }
+    },
+    {
+      "id": "full-tank-tourist",
+      "name": "Full Tank Tourist",
+      "description": "Visit all six counties of Leonida.",
+      "tier": "bronze",
+      "category": "World & Exploration",
+      "points": 15,
+      "missable": false,
+      "minutes": 30,
+      "guide": {
+        "summary": "Leonida's six counties: Vice City, Vice Beach counts with the city — the six are Vice City, the Keys, Port Gellhorn, the Glades, Ambrosia and Mount Kalaga County. Crossing each border triggers a county banner; you need all six.",
+        "steps": [
+          "Drive the causeway south for the Keys.",
+          "Head west to Port Gellhorn, then north through the Glades to Ambrosia.",
+          "Finish with the Kalaga highlands in the far north-west."
+        ],
+        "tips": [
+          "The story takes you to five of the six; Ambrosia is the one players miss."
+        ],
+        "timeEstimate": "30 min"
+      }
+    },
+    {
+      "id": "peak-leonida",
+      "name": "Peak Leonida",
+      "description": "Stand on the summit of Mount Kalaga.",
+      "tier": "bronze",
+      "category": "World & Exploration",
+      "points": 15,
+      "missable": false,
+      "minutes": 20,
+      "guide": {
+        "summary": "The state's highest point, marked by a survey post and the best view in the game. A hiking trail winds up from the Kalaga visitor centre; a helicopter also works.",
+        "steps": [
+          "Drive to the Mount Kalaga visitor centre in the north-west.",
+          "Follow the marked trail (about six minutes on foot) or land any aircraft at the summit clearing.",
+          "Stand at the survey post for the trophy."
+        ],
+        "tips": [
+          "Three postcards hide in the trail shelters on the way up — grab them for Postcard Perfect."
+        ],
+        "timeEstimate": "20 min"
+      }
+    },
+    {
+      "id": "chomp-chomp",
+      "name": "Chomp Chomp",
+      "description": "Escape an alligator encounter in the Leonida Glades.",
+      "tier": "bronze",
+      "category": "World & Exploration",
+      "points": 15,
+      "missable": false,
+      "minutes": 15,
+      "guide": {
+        "summary": "Wade in the Glades' shallows and a gator will eventually lunge. 'Escape' means breaking its grip with the struggle prompt and reaching dry land or your boat.",
+        "steps": [
+          "Head to the marked gator waters south of Ambrosia, on foot, at dawn or dusk.",
+          "Walk the shallows until a gator lunges and the struggle prompt appears.",
+          "Mash the prompt to break free, then get out of the water. The trophy pops once you are safe."
+        ],
+        "tips": [
+          "Do not shoot it first — a killed gator never lunges, and the trophy needs the encounter."
+        ],
+        "timeEstimate": "15 min"
+      }
+    },
+    {
+      "id": "five-star-tourist",
+      "name": "Five-Star Tourist",
+      "description": "Reach a five-star wanted level — then lose it.",
+      "tier": "bronze",
+      "category": "World & Exploration",
+      "points": 15,
+      "missable": false,
+      "minutes": 20,
+      "guide": {
+        "summary": "Cause mayhem in a dense area to climb the stars, then vanish. The trophy needs the full arc: five stars earned and fully lost without being wasted or busted.",
+        "steps": [
+          "In Downtown, chain crimes in view of police to climb to five stars (takes about two minutes).",
+          "Break line of sight and dive into the storm-drain network near the arena.",
+          "Stay hidden until the stars drain completely."
+        ],
+        "tips": [
+          "A fresh respray also works, but you must enter the spray shop unseen — the drains are more reliable."
+        ],
+        "timeEstimate": "20 min"
+      }
+    },
+    {
+      "id": "stick-the-landing",
+      "name": "Stick the Landing",
+      "description": "Complete 10 unique stunt jumps.",
+      "tier": "bronze",
+      "category": "World & Exploration",
+      "points": 15,
+      "missable": false,
+      "minutes": 45,
+      "guide": {
+        "summary": "Stunt jumps are ramps and gaps marked by a camera cut when you hit them right. Land on all wheels (or at least upright) past the marker to bank them.",
+        "steps": [
+          "Start with the three airport and port ramps — slow, forgiving landings.",
+          "Work the causeway's broken bridges (4 jumps) in a mid-tier sports car.",
+          "Add three Downtown construction ramps to reach ten."
+        ],
+        "tips": [
+          "Motorcycles complete jumps more forgivingly than cars; the ramp at the marina is made for one."
+        ],
+        "timeEstimate": "45 min"
+      }
+    },
+    {
+      "id": "deep-blue",
+      "name": "Deep Blue",
+      "description": "Dive the Leonida Trench and find the sunken cargo plane.",
+      "tier": "bronze",
+      "category": "World & Exploration",
+      "points": 15,
+      "missable": false,
+      "minutes": 35,
+      "guide": {
+        "summary": "Off the Keys' south drop-off lies a trench with a wrecked cargo plane on its floor. You need scuba gear, sold at the marina dive shop after Chapter 1.",
+        "steps": [
+          "Buy scuba gear at the Keys marina dive shop.",
+          "Boat out to the trench marker (deep blue water, south of the last Key).",
+          "Dive the wreck, enter the fuselage and reach the cockpit — the trophy pops at the flight recorder."
+        ],
+        "tips": [
+          "Two cash briefcases sit in the cargo hold; grab them for Lucky Strikes while you are down there."
+        ],
+        "timeEstimate": "35 min"
+      }
+    },
+    {
+      "id": "send-it",
+      "name": "Send It",
+      "description": "Complete all 35 unique stunt jumps.",
+      "tier": "silver",
+      "category": "World & Exploration",
+      "points": 30,
+      "missable": false,
+      "minutes": 150,
+      "guide": {
+        "summary": "All 35: 10 port and airport ramps, 8 causeway gaps, 7 Downtown, 6 in the Glades (airboat-friendly landings count if the vehicle stays upright) and 4 on Mount Kalaga's switchbacks.",
+        "steps": [
+          "Bank the easy port, airport and causeway jumps first (see Stick the Landing).",
+          "Downtown's seven need a fast car and clear traffic — attempt them at night.",
+          "The Kalaga switchback jumps need a motorcycle and a run-up from the summit road.",
+          "The jump menu under Collections tracks your remaining jumps by region."
+        ],
+        "tips": [
+          "If a jump refuses to register, you are landing short: the camera cut must play, then land beyond it."
+        ],
+        "timeEstimate": "About 2.5 hours"
+      }
+    },
+    {
+      "id": "property-baron",
+      "name": "Property Baron",
+      "description": "Own every purchasable property in Leonida.",
+      "tier": "gold",
+      "category": "World & Exploration",
+      "points": 90,
+      "missable": false,
+      "minutes": 600,
+      "guide": {
+        "summary": "Eleven properties: safehouses, the Velvet Marlin club, two marinas, a chop shop, the Glades airfield and more — roughly $6.5M in total. This is the platinum run's main money sink.",
+        "steps": [
+          "Buy safehouses as the story offers them (they are the cheap half of the list).",
+          "Fund the businesses with heist replays — the Con approach to the port heist pays best.",
+          "Buy the airfield and the second marina last; they unlock late and cost the most.",
+          "The trophy pops at the final purchase confirmation."
+        ],
+        "tips": [
+          "Owned businesses pay weekly; buying the club early means it part-funds the rest of the list."
+        ],
+        "timeEstimate": "About 10 hours (mostly earning)"
+      }
+    },
+    {
+      "id": "new-face-in-town",
+      "name": "New Face in Town",
+      "description": "Create your GTA Online character and finish the Leonida introduction.",
+      "tier": "bronze",
+      "category": "Online",
+      "points": 15,
+      "missable": false,
+      "minutes": 20,
+      "guide": {
+        "summary": "Online is a separate mode from the pause menu. The introduction is a short tour ending at your first apartment.",
+        "steps": [
+          "Choose 'Online' from the pause menu and build your character.",
+          "Complete the arrival cutscene and the introductory race.",
+          "Finish the tour at your starter apartment to pop the trophy."
+        ],
+        "tips": [
+          "Start online early even if you prefer story — the rank trophies are the platinum's longest pole."
+        ],
+        "timeEstimate": "20 min"
+      }
+    },
+    {
+      "id": "wire-transfer",
+      "name": "Wire Transfer",
+      "description": "Complete your first GTA Online job.",
+      "tier": "bronze",
+      "category": "Online",
+      "points": 15,
+      "missable": false,
+      "minutes": 15,
+      "guide": {
+        "summary": "Any job from the Online menu counts: a race, a contact mission or a survival. Contact missions pay the best starter cash.",
+        "steps": [
+          "Open Jobs from the pause menu (Online > Jobs > Play Job).",
+          "Pick any Rockstar-created contact mission and complete it, solo is fine.",
+          "The trophy pops at the payout screen."
+        ],
+        "tips": [
+          "Set matchmaking to Closed for your first jobs if you want them quick and quiet."
+        ],
+        "timeEstimate": "15 min"
+      }
+    },
+    {
+      "id": "rising-heat",
+      "name": "Rising Heat",
+      "description": "Reach Rank 25 in GTA Online.",
+      "tier": "bronze",
+      "category": "Online",
+      "points": 15,
+      "missable": false,
+      "minutes": 300,
+      "guide": {
+        "summary": "RP comes from everything online, but contact missions and survivals pay the fastest early RP per hour.",
+        "steps": [
+          "Run contact missions back-to-back from the Jobs menu; replay your favourites.",
+          "Join the weekly featured series when it offers double RP.",
+          "At Rank 25 the trophy pops mid-session — no need to return to story."
+        ],
+        "tips": [
+          "Finishing a job beats winning it for RP; complete, do not quit, even when a race goes badly."
+        ],
+        "timeEstimate": "About 5 hours"
+      }
+    },
+    {
+      "id": "made-man",
+      "name": "Made Man",
+      "description": "Reach Rank 50 in GTA Online.",
+      "tier": "silver",
+      "category": "Online",
+      "points": 30,
+      "missable": false,
+      "minutes": 900,
+      "guide": {
+        "summary": "The mid-game rank grind. By now your best RP is a rotation: heist finales, cargo sales and double-money weekly events.",
+        "steps": [
+          "Buy an office and warehouse when cash allows; cargo sales are steady RP and money.",
+          "Run one online heist finale a session (see Heist Crew).",
+          "Always play the double-RP featured job of the week for at least an hour."
+        ],
+        "tips": [
+          "Rank 50 also unlocks the best armour and ammo capacity — the grind pays for itself."
+        ],
+        "timeEstimate": "About 15 hours"
+      }
+    },
+    {
+      "id": "organization-man",
+      "name": "Organization Man",
+      "description": "Register as a Boss and complete a full Special Cargo sell mission.",
+      "tier": "silver",
+      "category": "Online",
+      "points": 30,
+      "missable": false,
+      "minutes": 120,
+      "guide": {
+        "summary": "Boss work needs an office (cheapest is in Downtown, $1M). Source a warehouse of cargo, then sell it in one run.",
+        "steps": [
+          "Buy any office, then a small warehouse from the office computer.",
+          "Source cargo missions until the warehouse holds at least 10 crates.",
+          "Start a sell mission and deliver every vehicle/load to its drop-off; partial deliveries do not count."
+        ],
+        "tips": [
+          "Sell in a quiet or invite-only session if your build allows it — rival players can raid sell missions in public lobbies."
+        ],
+        "timeEstimate": "About 2 hours"
+      }
+    },
+    {
+      "id": "heist-crew-online",
+      "name": "Heist Crew",
+      "description": "Complete any online heist finale as the heist leader.",
+      "tier": "silver",
+      "category": "Online",
+      "points": 30,
+      "missable": false,
+      "minutes": 90,
+      "guide": {
+        "summary": "Host an online heist from your apartment's planning room and finish its finale. You must be the leader — joining someone else's finale does not count.",
+        "steps": [
+          "Buy a high-end apartment with a planning room (any Downtown tower).",
+          "Host the first heist, pay the setup cost and complete its setups (crew of 2–4).",
+          "Finish the finale as host; the trophy pops at the payout split screen."
+        ],
+        "tips": [
+          "The first heist's finale is short and forgiving; save the harder ones for after this trophy."
+        ],
+        "timeEstimate": "About 1.5 hours"
+      }
+    },
+    {
+      "id": "leonida-elite",
+      "name": "Leonida Elite",
+      "description": "Reach Rank 100 in GTA Online.",
+      "tier": "gold",
+      "category": "Online",
+      "points": 90,
+      "missable": false,
+      "minutes": 2400,
+      "guide": {
+        "summary": "The long road. Rank 100 takes most players 40+ hours of varied play; the secret is rotation, not repetition — bonuses move weekly, so chase them.",
+        "steps": [
+          "Keep a weekly rhythm: featured double-RP job, one heist finale, one cargo sale per session.",
+          "Use time trials and survivals to fill short sessions with efficient RP.",
+          "From Rank 75+, heist finale replays on hard are the best steady RP in the game."
+        ],
+        "tips": [
+          "Never leave RP on the table: finish every job you start, and collect daily objectives — they quietly add up to several ranks."
+        ],
+        "timeEstimate": "About 40 hours"
+      }
+    }
+  ]
+}
